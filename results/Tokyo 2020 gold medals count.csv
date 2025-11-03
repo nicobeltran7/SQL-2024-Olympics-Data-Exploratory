@@ -1,0 +1,2 @@
+slug_game,COUNT(m.medal_type)
+tokyo-2020,376

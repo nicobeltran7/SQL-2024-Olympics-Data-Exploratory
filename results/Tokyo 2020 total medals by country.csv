@@ -1,0 +1,4 @@
+slug_game,SUM(totalcountry),COUNT(medal_type)
+tokyo-2020,65,1
+tokyo-2020,69,1
+tokyo-2020,76,1

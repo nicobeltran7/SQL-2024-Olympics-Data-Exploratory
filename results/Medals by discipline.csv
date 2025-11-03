@@ -1,0 +1,16 @@
+discipline_title,slug_game,COUNT(medal_type)
+"Cross Country Skiing",beijing-2022,42
+"Speed skating",beijing-2022,42
+"Freestyle Skiing",beijing-2022,39
+Snowboard,beijing-2022,36
+Biathlon,beijing-2022,33
+"Alpine Skiing",beijing-2022,33
+"Short Track Speed Skating",beijing-2022,27
+"Figure skating",beijing-2022,22
+Bobsleigh,beijing-2022,18
+"Ski Jumping",beijing-2022,15
+Luge,beijing-2022,15
+Curling,beijing-2022,12
+"Nordic Combined",beijing-2022,9
+"Ice Hockey",beijing-2022,6
+Skeleton,beijing-2022,6
